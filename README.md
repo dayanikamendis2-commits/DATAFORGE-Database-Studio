@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # DATAFORGE
 **Zero-Code Visual Dynamic Database Admin & Form Generator Studio**
 
@@ -121,3 +122,7 @@ Use a URI such as `sqlite:////absolute/path/to/database.db` (Linux/macOS) or the
 ### Database support scope
 
 DATAFORGE uses database-specific drivers and schema adapters. It cannot connect to literally every database automatically; each additional engine (for example SQL Server, Oracle, MongoDB or cloud warehouses) requires a compatible driver, authentication handling and schema/query adapter.
+=======
+# DATAFORGE-Database-Studio
+A Modern Database Management Studio for MySQL, PostgreSQL and SQLite.
+>>>>>>> origin/main
